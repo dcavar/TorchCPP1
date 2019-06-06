@@ -1,4 +1,4 @@
-# C++ example 1 for PyTorch
+# C++ example 1 for PyTorch/LibTorch
 
 by [Damir Cavar], June 2019
 
